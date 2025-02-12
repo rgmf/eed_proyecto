@@ -1,10 +1,14 @@
 h1 {
-    color: orange;
+    color: aquamarine;
     font-size: 24px;
+    background-color: purple;
+    padding-left: 1em;
 }
 
 p {
     margin: 10px 10px 5px 5px;
-    border: 2px solid yellow;
+    background-color: rgb(249, 249, 96);
+    border: 2px solid rgb(233, 188, 76);
     font-size: 14px;
+    padding: 1em;
 }
