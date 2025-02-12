@@ -1,10 +1,10 @@
 h1 {
-    color: orange;
-    font-size: 24px;
+    color: black;
+    font-size: 14%;
 }
 
 p {
-    margin: 10px 10px 5px 5px;
-    border: 2px solid yellow;
-    font-size: 14px;
+    margin: 10% 10% 5% 5%;
+    border: 2% purple;
+    font-size: 10%;
 }
