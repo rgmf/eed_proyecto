@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #35424a;
+    background-color: red;
     color: #ffffff;
     padding: 20px 0;
     text-align: center;
@@ -23,7 +23,7 @@ main {
 section {
     margin: 20px 0;
     padding: 15px; 
-    background-color: #ffffff;
+    background-color: red;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
@@ -31,7 +31,7 @@ section {
 footer {
     text-align: center;
     padding: 10px 0;
-    background-color: #35424a;
+    background-color: red;
     color: #ffffff;
     position: absolute;
     bottom: 0;
